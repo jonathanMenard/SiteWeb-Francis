@@ -1,0 +1,61 @@
+<mxfile host="65bd71144e" pages="2">
+    <diagram name="Main-Page" id="hnTppJFNwB3zojBNe42s">
+        <mxGraphModel dx="2026" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="o8fQbpQLrPJ2AO1DMdnV-3" value="Contenu Dynamique" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="140" width="579" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="-aIfjqWMu8M7GobGi4wx-3" value="&lt;div style=&quot;text-align: justify;&quot;&gt;Mission&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Approche-motifs de consultations&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Services offerts&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;qui suis-je&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="30" width="770" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="-aIfjqWMu8M7GobGi4wx-4" value="Ma face&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="730" y="130" width="120" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="uuaRmlDVWuqnq9jsiEj2-1" value="Ma mission : pour une sexualité affirmé, libre et épanouissante&amp;nbsp;" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1060" y="80" width="540" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="uuaRmlDVWuqnq9jsiEj2-2" value="Introduction&amp;nbsp; + mon approche + motifs de consultation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1070" y="330" width="540" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="uuaRmlDVWuqnq9jsiEj2-3" value="Services offerts (individuels/couples)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1060" y="210" width="540" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="uuaRmlDVWuqnq9jsiEj2-4" value="Qui suis-je / parcours&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1070" y="440" width="540" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="uuaRmlDVWuqnq9jsiEj2-10" value="Mes articles/mes publications&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="130" y="680" width="190" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="uuaRmlDVWuqnq9jsiEj2-11" value="Pour prendre RDV&lt;div&gt;&amp;nbsp;(email)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="130" y="500" width="540" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="uuaRmlDVWuqnq9jsiEj2-12" value="Mes articles/mes publications&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="530" y="680" width="190" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="uuaRmlDVWuqnq9jsiEj2-13" value="Mes articles/mes publications&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="680" width="190" height="130" as="geometry"/>
+                </mxCell>
+                <UserObject label="https://www.myriampsexologue.com/" link="https://www.myriampsexologue.com/" id="2">
+                    <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+                        <mxGeometry x="1050" y="650" width="230" height="40" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="dCox-zKIa_TPC-n9IeiH" name="Template-Article">
+        <mxGraphModel dx="2074" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <UserObject label="https://divanbleu.com/nos-dettes-silencieuses/" link="https://divanbleu.com/nos-dettes-silencieuses/" id="XP_sNXchd3on9Q5fdmx--1">
+                    <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+                        <mxGeometry x="200" y="130" width="280" height="40" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
