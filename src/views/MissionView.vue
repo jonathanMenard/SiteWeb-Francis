@@ -5,5 +5,6 @@ import Temp from "../components/Test switch/Temp.vue";
 <template>
   <main>
     <Temp />
+    <span>Ma mission c'est toi.</span>
   </main>
 </template>
