@@ -6,9 +6,6 @@ import MenuBarView from "./components/MenuBarView.vue";
 <template>
   <main>
     <MenuBarView />
-    <div class="flex justify-content-center flex-wrap">
-      <h3 class="">CONSTRUCTION EN COURS</h3>
-    </div>
     <RouterView />
   </main>
 </template>

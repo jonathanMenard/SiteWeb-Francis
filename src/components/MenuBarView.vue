@@ -10,10 +10,17 @@ import { ref } from "vue";
 
 const items = ref([
   {
+    label: "Bienvenue",
+    icon: "pi pi-home",
+    command: () => {
+      router.push({ path: "/" });
+    },
+  },
+  {
     label: "Mission",
     icon: "pi pi-megaphone",
     command: () => {
-      router.push({ path: "/" });
+      router.push({ path: "/Mission" });
     },
   },
   {
