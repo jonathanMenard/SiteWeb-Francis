@@ -1,4 +1,6 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import francisImg from "@/assets/images/Francis-Gauthier-sexologue.jpg";
+</script>
 
 <template>
   <main>
@@ -10,7 +12,7 @@
       </p>
     </div>
     <div class="flex justify-content-center">
-      <Image src="/Francis-Gauthier.jpg" alt="Image" width="250" />
+      <Image :src="francisImg" alt="Image" width="250" />
     </div>
   </main>
 </template>

@@ -1,4 +1,8 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import francisImg from "@/assets/images/Francis-Gauthier-sexologue.jpg";
+import MyEmailButton from "@/components/MyEmailButton.vue";
+import My3Articles from "@/components/My3Articles.vue";
+</script>
 
 <template>
   <main>
@@ -10,32 +14,9 @@
           <p>Voici mon approche et mes motivations.</p>
         </div>
       </div>
-      <div class="col-offset-1 col-4">
-        <Image src="/Francis-Gauthier.jpg" alt="Image" width="250" />
-      </div>
-      <div class="p-8 col-12 flex align-items-center justify-content-center">
-        <h3>Pour prendre rendez-vous :</h3>
-        <Button
-          as="a"
-          label="francisgauthier1986@gmail.com"
-          icon="pi pi-envelope"
-          variant="link"
-          href="mailto:francisgauthier1986@gmail.com"
-        />
-      </div>
-      <div class="col-12 flex align-items-center justify-content-center">
-        <div class="grid">
-          <div class="col-4">
-            <p>Article 1</p>
-          </div>
-          <div class="col-4">
-            <p>Article 2</p>
-          </div>
-          <div class="col-4">
-            <p>Article 3</p>
-          </div>
-        </div>
-      </div>
+      <Image :src="francisImg" alt="Image" width="250" />
     </div>
+    <MyEmailButton />
+    <My3Articles />
   </main>
 </template>
