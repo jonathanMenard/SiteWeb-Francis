@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div class="col-12">
+  <div class="pt-4 col-12">
     <div class="grid flex align-items-center justify-content-center gap-4">
       <Card class="col-3">
         <template #header>

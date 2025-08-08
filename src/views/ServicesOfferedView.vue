@@ -6,7 +6,7 @@ import My3Articles from "@/components/My3Articles.vue";
 
 <template>
   <main>
-    <div class="grid nested-grid p-2">
+    <div class="grid nested-grid pt-3">
       <div
         class="col-offset-4 col-3 flex align-items-center justify-content-center"
       >
