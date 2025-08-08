@@ -1,11 +1,11 @@
 <script setup lang="ts">
 import { RouterView } from "vue-router";
-import MenuBarView from "./components/MenuBarView.vue";
+import MyMenuBar from "./components/MyMenuBar.vue";
 </script>
 
 <template>
   <main>
-    <MenuBarView />
+    <MyMenuBar />
     <RouterView />
   </main>
 </template>

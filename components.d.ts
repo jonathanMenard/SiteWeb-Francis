@@ -18,6 +18,7 @@ declare module 'vue' {
     Image: typeof import('primevue/image')['default']
     Menubar: typeof import('primevue/menubar')['default']
     MenuBarView: typeof import('./src/components/MenuBarView.vue')['default']
+    MyMenuBar: typeof import('./src/components/MyMenuBar.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     Temp: typeof import('./src/components/Test switch/Temp.vue')['default']
